@@ -21,7 +21,7 @@ $./gradlew bootJar (for linux)
 gradlew.bat bootJar (for windows)
 ```
 
-## Swagger 
+## Accessing the rest endpoint using swagger 
 Once the application is successfully running the rest controllers can be accessed from
 
 ```shell
